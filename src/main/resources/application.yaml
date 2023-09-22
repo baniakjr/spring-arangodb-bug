@@ -1,0 +1,7 @@
+bug:
+  arango-db-properties:
+    host: localhost
+    user: test
+    port: 8529
+    password: test
+    name: test
